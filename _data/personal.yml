@@ -1,8 +1,8 @@
 name: Michael Gully-Santiago
 
-label: Graduate Student
+label: astronomy graduate student
 
-picture: /img/gully_SEM.jpg
+picture: /img/gully_face_square.png
 
 email: gully@astro.as.utexas.edu
 
@@ -12,8 +12,10 @@ department: Astronomy
 
 institution: UTexas
 
-mailing_address: >
+mailing_address: |
+  <i class="fa fa-university"></i>
   2515 Speedway, Stop C1400
+  <br>
   Austin, TX 78712
 
 profiles:
@@ -26,9 +28,13 @@ profiles:
     network: Twitter
     username: gully_
     url: https://twitter.com/gully_/
+  - 
+    network: Strava
+    username: gully
+    url: https://www.strava.com/athletes/431569
 
 intro:
   title: hi.
   body: >
-    I am an Astronomy graduate student at 
-    [UT Austin ](http://www.as.utexas.edu/).
+    I am an astronomy graduate student at 
+    [UT Austin](http://www.as.utexas.edu/).  My work spans the interface of astronomical instrumentation, device development, materials science, computing, software development, statistics, data mining, and data visualization <i class="fa fa-bar-chart fa-lg"></i>.  I am detecting and characterizing some of the lowest mass young brown dwarfs known.  I like riding bicycles <i class="fa fa-bicycle fa-lg"></i>.  

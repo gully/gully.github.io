@@ -63,7 +63,7 @@ It is threatened by habitat loss.
         <div class="col-xs-3 col-lg-3">
           <img src="{{ site.baseurl }}{{ site.data.personal.picture }}" 
                class="img-circle"
-               style="margin-top:-6px;width:56px;border:2px solid rgba(255,255,255,0.75)">
+               style="margin-top:-6px;width:140px;border:2px solid rgba(255,255,255,0.75)">
         </div>
       </div>
     </div>
@@ -105,10 +105,10 @@ It is threatened by habitat loss.
         <p>
           {% for profile in site.data.personal.profiles %}
             
-            {% if profile.network == 'Google Scholar' %}
-              <i class="fa fa-google"></i>
-            {% elsif profile.network == 'LinkedIn' %}
-              <i class="fa fa-linkedin-square"></i>
+            {% if profile.network == 'GitHub' %}
+              <i class="fa fa-github"></i>
+            {% elsif profile.network == 'Strava' %}
+              <i class="fa fa-bicycle"></i>
             {% elsif profile.network == 'Twitter' %}
               <i class="fa fa-twitter-square"></i>
             {% endif %}
