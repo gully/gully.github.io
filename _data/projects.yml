@@ -1,6 +1,13 @@
 -
+  name: Discovery and characterization of young brown dwarfs
+  description: >
+    Brown dwarfs are rare.  The dearth of brown dwarfs is a manifestation of the stellar Initial Mass Function (IMF).  Their rarity and the observational challenges of detecting them have conspired to yield small samples of brown dwarfs.  Despite these limitations, brown dwarfs offer a unique astrophysical laboratory, to which we can ask the question "how do circumstellar disks change as a function of central object mass".  Or radiation environoment.  Or gravitational potential.  Etc.  The agregate properties of young brown dwarfs can reveal how astrophysical processes govern star formation. For example, we’re learning about circumstellar disk dispersal timescales as a function of central object mass. These ideas ultimately inform our understanding of planetary habitability, and the diversity of stellar and planetary systems.
+  image: /img/L-dwarf-nasa-hurt.png
+  url: https://github.com/browndwarf
+-
   name: They Blinded Me with Science
   description: >
-    I kickstarted a science podcast for the existing science radio show *They Blinded Me With Science*.  I produced 30 original podcasts with > 3000 collective downloads and plays.  The 30-minute show typically centered around a guest from the College of Natural Sciences or beyond.  Guests include Jeff Silverman, Rachael Livermore, 
+    I kickstarted a science podcast for the KVRX science radio show *They Blinded Me With Science*.  I produced 30 original podcasts with > 3000 collective downloads and plays (and counting).  The 30-minute show typically centered around researchers from the UT Austin College of Natural Sciences or beyond.  Guests included Jeff Silverman, Rachael Livermore, [Klaus Pontoppidan](http://tbmws.podbean.com/e/monday-february-17-2014-astronomer-klaus-pontoppidan-educates-us-about-planet-formation/), and Chalence Safranek-Shrader, among others.  All the podcasts are on iTunes!
   image: /img/TBMWS_logo.png
   url: https://itunes.apple.com/us/podcast/they-blinded-me-with-science/id908731079?mt=2
+

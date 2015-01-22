@@ -23,7 +23,7 @@ profiles:
   -
     network: GitHub
     username: gully
-    url: https://www.github.com/gully
+    url: https://www.github.com/gully/
   -
     network: Twitter
     username: gully_
@@ -31,10 +31,9 @@ profiles:
   - 
     network: Strava
     username: gully
-    url: https://www.strava.com/athletes/431569
+    url: https://www.strava.com/athletes/431569/
 
 intro:
   title: hi.
   body: >
-    I am an astronomy graduate student at 
-    [UT Austin](http://www.as.utexas.edu/).  My work spans the interface of astronomical instrumentation, device development, materials science, computing, software development, statistics, data mining, and data visualization <i class="fa fa-bar-chart fa-lg"></i>.  I am detecting and characterizing some of the lowest mass young brown dwarfs known.  I like riding bicycles <i class="fa fa-bicycle fa-lg"></i>.  
+    I am an astronomy graduate student at [UT Austin](http://www.as.utexas.edu/).  My interdisciplinary research includes astronomical instrumentation, device development, materials science, optics, computing, software development, statistics, data mining, and data visualization.  My astronomical projects are aimed at detecting and characterizing some of the lowest mass young brown dwarfs.  The next generation of ambitious astronomical instrumentation will present [a new paradigm for data-driven astronomy](https://www.quantamagazine.org/20131002-a-digital-copy-of-the-universe-encrypted/), in which data science skills will feature even more prominently than they already do.  
