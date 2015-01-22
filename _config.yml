@@ -1,8 +1,2 @@
 # Build settings
 markdown: kramdown
-highlighter: pygments
-# http://jekyllrb.com/docs/github-pages/#project-page-url-structure
-baseurl: /gully.github.io
-safe: true
-lsi: false
-#source: /
