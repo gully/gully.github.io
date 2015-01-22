@@ -1,44 +1,34 @@
-name: Ian Li
+name: Michael Gully-Santiago
 
-label: UI Designer
+label: Graduate Student
 
-picture: /img/profile-picture.jpg
+picture: /img/gully_SEM.jpg
 
-email: ianli@ianli.com
+email: gully@astro.as.utexas.edu
 
 phone: 
 
-department: Android UX
+department: Astronomy
 
-institution: Google
+institution: UTexas
 
 mailing_address: >
-  1600 Amphitheatre Parkway
-  Mountain View, CA 94043
+  2515 Speedway, Stop C1400
+  Austin, TX 78712
 
 profiles:
-  - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+
   -
-    network: LinkedIn
-    username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    network: GitHub
+    username: gully
+    url: https://www.github.com/gully
   -
     network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    username: gully_
+    url: https://twitter.com/gully_/
 
 intro:
-  title: Hello!
+  title: hi.
   body: >
-    I'm a UI designer at Google.
-    Before Google, I was a Ph.D. student in the 
-    [Human-Computer Interaction Institute](http://hcii.cs.cmu.edu/) at Carnegie Mellon University.
-    My advisors were 
-    [Anind Dey](http://www.cs.cmu.edu/~anind/) and 
-    [Jodi Forlizzi](http://goodgestreet.com/). 
-    I worked on designed and developed 
-    [personal informatics tools](http://www.personalinformatics.org/) that help people better understand their own behavior.
-    [My dissertation](http://ianli.com/thesis/) explored how contextual information can improve self-knowledge in personal informatics systems.
+    I am an Astronomy graduate student at 
+    [UT Austin ](http://www.as.utexas.edu/).
