@@ -2,7 +2,7 @@
 markdown: kramdown
 highlighter: pygments
 # http://jekyllrb.com/docs/github-pages/#project-page-url-structure
-baseurl: /hi
+baseurl: /gully.github.io
 safe: true
 lsi: false
 #source: /
