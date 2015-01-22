@@ -1,22 +1,53 @@
 -
   type: conference
   title: High performance Si immersion gratings patterned with electron beam lithography
-  authors: Gully-Santiago, M.A, Jaffe, D.T., Brooks, C.B., Wilson, D.W., and Muller, R.E.
+  authors: Gully-Santiago, M.A; Jaffe, D.T.; Brooks, C.B.; Wilson, D.W.; and Muller, R.E.
   conference: Proc. SPIE
   volume: 9151
   year: 2014
   url: http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG
 -
   type: conference
-  title: "Near-infrared metrology of high-performance silicon immersion gratings"
+  title: Near-infrared metrology of high-performance silicon immersion gratings
   authors: Gully-Santiago, M.; Wang, W.; Deen, C.; and Jaffe, D.
   conference: Proc. SPIE
   year: 2012
   url: http://adsabs.harvard.edu/abs/2012SPIE.8450E..2SG
 -
   type: conference
-  title: "High-performance silicon grisms for 1.2-8.0 micron- detailed results from the JWST-NIRCam devices"
+  title: Confirmation and Characterization of Young Disk-Bearing Brown Dwarfs and sub-Brown Dwarfs
+  authors: Gully-Santiago, M. A., K. N. Allers, and D. T. Jaffe
+  conference: Cool Stars 16
+  year: 2011
+  url: http://adsabs.harvard.edu/abs/2011ASPC..448..633G
+-
+  type: conference
+  title: High-performance silicon grisms for 1.2-8.0 micron- detailed results from the JWST-NIRCam devices
   authors: Gully-Santiago, M.; Wang, W.; Deen, C.; Kelly, D.; Greene, T. P.; Bacon, J.; Jaffe, D. T.
   conference: Proc. SPIE
   year: 2010
   url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
+-
+  type: conference
+  title: The First SPIE software Hack Day
+  authors: S. Kendrew, C. Deen, N. Radziwill, S. Crawford, J. Gilbert, Gully-Santiago, M., and P. Kubanek
+  conference: Proc. SPIE
+  year: 2014
+  url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
+-
+  type: conference
+  title: New metrology techniques improve the production of silicon diffractive optics
+  authors: C. B. Brooks, Gully-Santiago, M., M. Grigas, and D. T. Jaffe
+  conference: Proc. SPIE
+  year: 2014
+  url: http://adsabs.harvard.edu/abs/2014SPIE.9151E..1GB
+-
+  type: conference
+  title: Manufacturing of silicon immersion gratings for infrared spectrometers
+  authors: W. Wang, Gully-Santiago, M., C. Deen, D. J. Mar, and D. T. Jaffe
+  conference: Proc. SPIE
+  year: 2010
+  url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..4LW
+
+
+

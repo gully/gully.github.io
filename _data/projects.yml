@@ -5,6 +5,18 @@
   image: /img/L-dwarf-nasa-hurt.png
   url: https://github.com/browndwarf
 -
+  name: Silicon Immersion gratings 
+  description: >
+    The Jaffe Silicon Diffractive Optics Group has been making diffraction gratings out of monocrystalline silicon.  Silicon is an excellent optical material in the infrared because of its high (_n_ = 3.4) refractive index, which shrinks Si immersed wavelength, and reduces the overall size of an infrared spectrograph design by a factor of about 3 to 10.  Weisong Wang and I custom-made the Si immersion grating for IGRINS.
+  image: /img/Si_profile.png
+  url: http://www.as.utexas.edu/astronomy/research/people/jaffe/micro_si_diff.html
+-
+  name: AstroML meetup and textbook figure hacking
+  description: >
+    Some of us were getting together to do examples from the AstroML textbook, "Statistics, Data Mining, and Machine Learning in Astronomy: A Practical Python Guide to the Analysis of Survey Data".  This book is the killer app for self-education in Machine Learning for Astronomy, and was (for better or worse) how I taught myself Python.  The [Python source code for every single figure in the book](http://www.astroml.org/book_figures/) is online (we love you [Jake](https://twitter.com/jakevdp)).  I hacked some of the textbook figures and [posted them online too](http://gully.github.io/astroMLfigs/).
+  image: /img/astroML.gif
+  url: http://www.astroml.org/
+-
   name: They Blinded Me with Science
   description: >
     I kickstarted a science podcast for the KVRX science radio show *They Blinded Me With Science*.  I produced 30 original podcasts with > 3000 collective downloads and plays (and counting).  The 30-minute show typically centered around researchers from the UT Austin College of Natural Sciences or beyond.  Guests included Jeff Silverman, Rachael Livermore, [Klaus Pontoppidan](http://tbmws.podbean.com/e/monday-february-17-2014-astronomer-klaus-pontoppidan-educates-us-about-planet-formation/), and Chalence Safranek-Shrader, among others.  All the podcasts are on iTunes!
