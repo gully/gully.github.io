@@ -31,9 +31,9 @@ profiles:
   - 
     network: Strava
     username: gully
-    url: https://www.strava.com/athletes/431569/
+    url: https://www.strava.com/athletes/gully/
 
 intro:
   title: hi.
   body: >
-    I am an astronomy graduate student at [UT Austin](http://www.as.utexas.edu/).  My interdisciplinary research includes astronomical instrumentation, device development, materials science, optics, computing, software development, statistics, data mining, and data visualization.  My astronomical projects are aimed at detecting and characterizing some of the lowest mass young brown dwarfs.  The next generation of ambitious astronomical instrumentation will present [a new paradigm for data-driven astronomy](https://www.quantamagazine.org/20131002-a-digital-copy-of-the-universe-encrypted/), in which data science skills will feature even more prominently than they already do.  
+    I am an astronomy graduate student at [UT Austin](http://www.as.utexas.edu/), and former [NASA GSRP fellow at JPL](http://microdevices.jpl.nasa.gov/).  My multidisciplinary research includes elements of astronomical instrumentation, device development, nanotechnolody, optics, computing, software development, statistics, data mining, and visualization.  My astronomical projects are aimed at detecting and characterizing some of the lowest mass young brown dwarfs in [nearby star forming regions](http://apod.nasa.gov/apod/ap110414.html).  I'm excited about the next generation of [ambitious astronomical instrumentation](https://www.quantamagazine.org/20130307-peering-into-the-early-universe/), in which [data science skills will feature prominently](https://www.quantamagazine.org/20131002-a-digital-copy-of-the-universe-encrypted/).
