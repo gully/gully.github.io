@@ -25,6 +25,6 @@
 -
   name: Interactive Physics of Spectroscopy installation at UT Austin
   description: >
-    I designed and installed this public outreach installation for the UT Austin Department of Astronomy.  The exhibit is on the Astronomy Department's 15th floor in Robert Lee Moore Hall.  A large glass display case holds a hydrogen spectrum tube, Raspberry Pi micro-computer, web-camera, diffraction grating, and computer monitor.  An arcade-style button triggers the Raspberry Pi to turn on the monitor, camera, and Hydrogen spectrum tube to show a live spectrum to any curious students or visitors passing by.  
+    I designed and installed this public outreach installation for the UT Austin Department of Astronomy.  The exhibit is on the Astronomy Department's 15th floor in Robert Lee Moore Hall.  A large glass display case holds a hydrogen spectrum tube, Raspberry Pi micro-computer, web-camera, diffraction grating, and computer monitor.  An arcade-style button triggers the Raspberry Pi to turn on the monitor, camera, and Hydrogen spectrum tube to show a live spectrum to any curious students or visitors passing by.  The button gets clicked on average of 6 times per day.
   image: /img/Hydrogen.png
   url: http://gigayear.weebly.com/blog.html
