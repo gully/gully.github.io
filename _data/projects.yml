@@ -22,4 +22,9 @@
     I kickstarted a science podcast for the KVRX science radio show *They Blinded Me With Science*.  I produced 30 original podcasts with > 3000 collective downloads and plays (and counting).  The 30-minute show typically centered around researchers from the UT Austin College of Natural Sciences or beyond.  Guests included Jeff Silverman, Rachael Livermore, [Klaus Pontoppidan](http://tbmws.podbean.com/e/monday-february-17-2014-astronomer-klaus-pontoppidan-educates-us-about-planet-formation/), and Chalence Safranek-Shrader, among others.  All the podcasts are on iTunes!
   image: /img/TBMWS_logo.png
   url: https://itunes.apple.com/us/podcast/they-blinded-me-with-science/id908731079?mt=2
-
+-
+  name: Interactive Physics of Spectroscopy installation at UT Austin
+  description: >
+    I designed and installed this public outreach installation for the UT Austin Department of Astronomy.  The exhibit is on the Astronomy Department's 15th floor in Robert Lee Moore Hall.  A large glass display case holds a hydrogen spectrum tube, Raspberry Pi micro-computer, web-camera, diffraction grating, and computer monitor.  An arcade-style button triggers the Raspberry Pi to turn on the monitor, camera, and Hydrogen spectrum tube to show a live spectrum to any curious students or visitors passing by.  
+  image: /img/Hydrogen.png
+  url: http://gigayear.weebly.com/blog.html
