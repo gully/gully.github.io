@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Lato", "PT Serif", Georgia, "Times New Roman", serif;
 }
 
 html, body {
@@ -63,14 +63,14 @@ body {
 }
 
 .site-header nav a {
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: #666;
 }
 
 .site-header nav a:hover {
   color: #444;
   opacity: 1;
-  border-bottom: 2px solid #444;
+  border-bottom: 2px solid #198;
 }
 
 .site-nav a + a {
