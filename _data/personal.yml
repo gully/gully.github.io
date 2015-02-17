@@ -28,10 +28,11 @@ profiles:
     network: Twitter
     username: gully_
     url: https://twitter.com/gully_/
-  - 
-    network: Strava
-    username: gully
-    url: https://www.strava.com/athletes/gully/
+  -
+    network: LinkedIn
+    username: gullys
+    url: https://www.linkedin.com/in/gullys  
+
 
 intro:
   title: hi.

@@ -1,2 +1,56 @@
 # Build settings
 markdown: kramdown
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            gully
+tagline:          blog
+
+
+# http://jekyllrb.com/docs/github-pages/#project-page-url-structure
+#baseurl: https://gully.github.io/
+baseurl: ""
+blogurl: "blog"
+
+
+  # Site settings
+
+email:       igully@gmail.com
+author:      Michael Gully-Santiago
+description: "blog"
+url:         "http://gully.github.io"
+
+# Google analytics
+google_analytics:   false
+
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Social icons
+show_social_icons: false
+github_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
