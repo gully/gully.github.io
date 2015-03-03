@@ -2,11 +2,11 @@
 layout:     post
 title:      The first UT Austin astronomy hack day
 date:       2015-03-02 17:30:00
-summary:    The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  We had 10 attendees and worked on 5 different projects.  This post summarizes the motivation, project outcomes, and lessons learned from our first experience.
+summary:    The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  We had 10 attendees and worked on 7 different projects.  This post summarizes the motivation, project outcomes, and lessons learned from our first experience.
 categories: astronomy
 ---
 
-The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  We had 10 attendees and worked on 5 different projects.  This post summarizes the motivation, project outcomes, and lessons learned from our first experience.
+The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  We had 10 attendees and worked on 7 different projects.  This post summarizes the motivation, project outcomes, and lessons learned from our first experience.
 
 ![photo of UT Austin Hack Day](/public/photos/UTAustin_Hack_day_photo.jpg)
 
@@ -33,7 +33,7 @@ Ten people showed up in the morning for the pitches.  After the pitches, the par
 
 **Documentation for Systemic** Greg Mace used Stefano Meschiari's existing code, Systemic, to model orbital dynamics for radial velocity data.  Stefano aided Greg and improved the documentation in situ.
 
-**Robust spectral inference for IGRINS data** Michael Gully-Santiago, Andy Mann, and Kevin Gullikson worked on implementing robust inference of IGRINS infrared stellar spectra with the new [Starfish code](http://iancze.github.io/Starfish/).  I wrote [a blog post] about it in more detail.  Briefly, we worked on getting the code to work, and ultimately had a Skype call with the author of the code, Ian Czekala.  We also requested and got approval for 50,000 SU Startup allowance on the Wrangler Supercomputer at TACC.
+**Robust spectral inference for IGRINS data** Michael Gully-Santiago, Andy Mann, and Kevin Gullikson worked on implementing robust inference of IGRINS infrared stellar spectra with the new [Starfish code](http://iancze.github.io/Starfish/).  I wrote [a blog post](http://gully.github.io/2015/03/02/gully-starfish_hack/) about it in more detail.  Briefly, we worked on getting the code to work, and ultimately had a Skype call with the author of the code, Ian Czekala.  We also requested and got approval for 50,000 SU Startup allowance on the Wrangler Supercomputer at TACC.
 
 **ADS developer API** Stefano Meschiari used the SAO/NASA Astrophysics Data System's "ADS developer API" to query ADS.  Stefano made an "Astronomy Publication Main Sequence" which plotted number of publications versus number of citations for individual authors on ADS.  The sequence revealed a characteristic trend, with some interesting outliers.  Stefano has expressed interest in posting his results online. 
 
