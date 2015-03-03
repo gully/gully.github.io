@@ -5,7 +5,7 @@ date:       2015-03-02 17:20:00
 summary:    The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  This post chronicles my project aimed at deriving physical properties from stellar spectra, but ended up being about setting up a supercomputer.
 ---
 
-The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  A blog post about it is [here](www.as.utexas.edu).  This post goes into some more detail on my own hack which was aimed at deriving physical properties of stars from their near infrared spectra.
+The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  A blog post about it is [here](http://gully.github.io/astronomy/2015/03/02/UTAustin-AstroHackDay/).  This post goes into some more detail on my own hack which was aimed at deriving physical properties of stars from their near infrared spectra.
 
 Andy Mann, and Kevin Gullikson, and I worked on implementing robust inference of IGRINS infrared stellar spectra with the new [Starfish code](http://iancze.github.io/Starfish/).  The first challenge was package management.  Migrating to Python 3.3 was made easy with [anaconda](https://store.continuum.io/cshop/anaconda), but none of us had Julia installed on our laptops, and our HDF5 inexperience was a barrier.  We spent a while navigating the Starfish dependencies and examples, and patching hard-code.  The main challenge was setting up the stellar model grids with HDF5.
 
