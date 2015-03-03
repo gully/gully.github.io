@@ -2,7 +2,7 @@
 layout:     post
 title:      Setting up Starfish at TACC for the astro hack day
 date:       2015-03-02 17:20:00
-summary:    The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  A blog post about it is [here](www.as.utexas.edu).  This post chronicles my project aimed at deriving physical properties from stellar spectra, but ended up being about setting up a supercomputer.
+summary:    The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  This post chronicles my project aimed at deriving physical properties from stellar spectra, but ended up being about setting up a supercomputer.
 ---
 
 The UT Austin Astronomy Department graduate students and postdocs held their first hack day on Friday January 16, 2015.  A blog post about it is [here](www.as.utexas.edu).  This post goes into some more detail on my own hack which was aimed at deriving physical properties of stars from their near infrared spectra.
