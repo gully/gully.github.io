@@ -4,7 +4,7 @@ title: about gully
 permalink: /about/
 ---
 
-*Michael Gully-Santiago is an astronomy graduate student at the University of Texas at Austin.  PhD anticipated in May 2015.*
+*Michael Gully-Santiago is a postdoctoral researcher at the Kavli Institute for Astronomy and Astrophysics.  He received his PhD at the University of Texas at Austin in May 2015.  He lives in Beijing.*
 
 This blog offers an opportunity to share my ideas and vision with anyone.  Practically speaking, it is merely a place to put content that is too long for a tweet and to whimsical for a paper.  I write about astronomy and technology.
 

@@ -1,6 +1,6 @@
-name: Michael Gully-Santiago
+name: Michael Gully-Santiago, PhD
 
-label: astronomy graduate student
+label: postdoctoral researcher in astronomy 
 
 picture: /img/gully_face_square.png
 
@@ -14,9 +14,17 @@ institution: UTexas
 
 mailing_address: |
   <i class="fa fa-university"></i>
-  2515 Speedway, Stop C1400
+  Kavli Institute for Astronomy and Astrophysics
   <br>
-  Austin, TX 78712
+  Peking University
+  <br>
+  5 Yiheyuan Road
+  <br>
+  Haidian District
+  <br>
+  Beijing 100871
+  <br>
+  P. R. China
 
 profiles:
 
@@ -35,6 +43,6 @@ profiles:
 
 
 intro:
-  title: hi.
+  title: Nǐ hǎo.
   body: >
-    I am an astronomy graduate student at [UT Austin](http://www.as.utexas.edu/), and former [NASA GSRP fellow at JPL](http://microdevices.jpl.nasa.gov/).  My multidisciplinary research includes elements of astronomical instrumentation, device development, nanotechnology, optics, computing, software development, statistics, data mining, and visualization.  My astronomical projects are aimed at detecting and characterizing some of the lowest mass young brown dwarfs in [nearby star forming regions](http://apod.nasa.gov/apod/ap110414.html).  I'm excited about the next generation of [ambitious astronomical instrumentation](https://www.quantamagazine.org/20130307-peering-into-the-early-universe/), in which [data science skills will feature prominently](https://www.quantamagazine.org/20131002-a-digital-copy-of-the-universe-encrypted/).
+    I am a postdoctoral reseacher at the [Kavli Institute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) in Beijing, China.  I got my PhD at the University of Texas at Austin in May 2015, and was formerly a [NASA GSRP fellow at JPL](http://microdevices.jpl.nasa.gov/).  My multidisciplinary research includes elements of astronomical instrumentation, device development, nanotechnology, optics, computing, software development, statistics, data mining, and visualization.  My astronomical projects are aimed at detecting and characterizing some of the lowest mass young brown dwarfs in [nearby star forming regions](http://apod.nasa.gov/apod/ap110414.html).  I'm excited about the next generation of [ambitious astronomical instrumentation](https://www.quantamagazine.org/20130307-peering-into-the-early-universe/), in which [data science skills will feature prominently](https://www.quantamagazine.org/20131002-a-digital-copy-of-the-universe-encrypted/).
