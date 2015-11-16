@@ -1,4 +1,10 @@
 -
+  name: Spectral inference of IGRINS data
+  description: >
+    IGRINS is a high resolution (R~40,000) spectrograph covering the entire H- and K- near-IR spectral windows in a single exposure.  This immense spectral grasp presents both a new scientific competitive advantage, and an analysis challenge.  I am leveraging a new statistical and computational approach that emulates synthetic spectra from pre-computed stellar model grid to compare with IGRINS data.  The implementation of this approach, Starfish, is openly developed on GitHub, parallelized, and permissively licensed.  The code provides an extensible modular framework for deriving intrinsic and extrinsic stellar properties.  My work is centered around extending the code to model new astrophysical phenomena surrounding young stars.  
+  image: img/pgm_alt.png
+  url: https://github.com/gully/Starfish
+-
   name: Discovery and characterization of young brown dwarfs
   description: >
     Brown dwarfs are rare.  The dearth of brown dwarfs is a manifestation of the stellar Initial Mass Function (IMF).  Their rarity and the observational challenges of detecting them have conspired to yield small samples of brown dwarfs.  Despite these limitations, brown dwarfs offer a unique astrophysical laboratory, to which we can ask the question "how do circumstellar disks change as a function of central object mass".  Or radiation environoment.  Or gravitational potential.  Etc.  The agregate properties of young brown dwarfs can reveal how astrophysical processes govern star formation. For example, we’re learning about circumstellar disk dispersal timescales as a function of central object mass. These ideas ultimately inform our understanding of planetary habitability, and the diversity of stellar and planetary systems.
