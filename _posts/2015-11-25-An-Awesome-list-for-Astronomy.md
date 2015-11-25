@@ -31,3 +31,5 @@ The Awesome Astronomy list shares some similarities to the existing [AstroBetter
 The format is already popular across many other fields, so an Awesome Astronomy list will serve as a gateway for folks from other disciplines to find out about, use, and maybe contribute to our astronomy resources.  Ideally, the content from the AstroBetter Wiki would eventually find its way into the Awesome List.  But that's up to the community to decide with your pull requests!
 
 So here it is: [https://github.com/jonathansick/awesome-astronomy](https://github.com/jonathansick/awesome-astronomy).  We welcome your contributions!
+
+(I want to give credit to Stefano Meschari, Dan Foreman-Mackey, and Colette Salyk, who all co-inspired this idea.)
