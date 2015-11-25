@@ -40,6 +40,10 @@ profiles:
     network: LinkedIn
     username: gullys
     url: https://www.linkedin.com/in/gullys  
+  -
+    network: CV
+    username: CV
+    url: https://github.com/gully/CV/blob/master/cv.pdf
 
 
 intro:
