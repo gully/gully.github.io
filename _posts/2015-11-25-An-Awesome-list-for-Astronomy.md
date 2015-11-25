@@ -2,7 +2,7 @@
 layout:     post
 title:      How do astronomers discover resources?
 date:       2015-11-25 05:00:00
-summary:    Information sharing within the astronomy community occurs through many avenues.  Beyond journals like ApJ and preprint servers like astroPH, there are other less formal venues for discovering resources and exchanging ideas.  The current cadre of these venues is lacking an outlet for user contributed, curated, static content.
+summary:    Information sharing within the astronomy community occurs through many avenues.  In this blog post I point out that the current information sharing avenues are lacking an outlet for user contributed, community-curated, open-access content about astronomy specific resources.  I provide an implementation of this forum, called [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy).
 ---
 
 Information sharing within the astronomy community occurs through many avenues.  In this blog post I point out that the current information sharing avenues are lacking an outlet for user contributed, community-curated, open-access content about astronomy specific resources.  I provide an implementation of this forum, called [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy).
