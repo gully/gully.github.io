@@ -2,10 +2,10 @@
 layout:     post
 title:      How do astronomers discover resources?
 date:       2015-11-25 05:00:00
-summary:    Information sharing within the astronomy community occurs through many avenues.  In this blog post I point out that the current information sharing avenues are lacking an outlet for user contributed, community-curated, open-access content about astronomy specific resources.  I provide an implementation of this forum, called [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy).
+summary:    Information sharing within the astronomy community occurs through many avenues.  In this blog post I point out that the current information sharing avenues are lacking an outlet for user contributed, community-curated, open-access content about astronomy specific resources.  I provide an implementation of this forum, called Awesome Astronomy, which is inspired by the Awesome lists on GitHub.
 ---
 
-Information sharing within the astronomy community occurs through many avenues.  In this blog post I point out that the current information sharing avenues are lacking an outlet for user contributed, community-curated, open-access content about astronomy specific resources.  I provide an implementation of this forum, called Awesome Astronomy, which is inspired by the Awesome lists on GitHub.
+Information sharing within the astronomy community occurs through many avenues.  In this blog post I point out that the current information sharing avenues are lacking an outlet for user contributed, community-curated, open-access content about astronomy specific resources.  I provide an implementation of this forum, called [Awesome Astronomy](https://github.com/jonathansick/awesome-astronomy).
 
 ### Limitations of information sharing in astronomy
 
