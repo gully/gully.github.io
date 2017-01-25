@@ -29,7 +29,7 @@ It is threatened by habitat loss.
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,700">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/albertine/css/default.css">
 
@@ -112,10 +112,18 @@ It is threatened by habitat loss.
               <i class="fa fa-trophy"></i>
             {% elsif profile.network == 'LinkedIn' %}
               <i class="fa fa-linkedin-square"></i>
+            {% elsif profile.network == 'Strava' %}
+              <i class="fa fa-bicycle"></i>
+            {% elsif profile.network == 'Angel' %}
+              <i class="fa fa-angellist"></i>
+            {% elsif profile.network == 'Instagram' %}
+              <i class="fa fa-instagram"></i>
             {% elsif profile.network == 'Twitter' %}
               <i class="fa fa-twitter-square"></i>
             {% elsif profile.network == 'CV' %}
-              <i class="fa fa-file-pdf-o"></i>  
+              <i class="fa fa-file-pdf-o"></i>
+            {% elsif profile.network == 'Résumé' %}
+              <i class="fa fa-download"></i>    
             {% endif %}
             <a href="{{ profile.url }}">
               {{ profile.network }}

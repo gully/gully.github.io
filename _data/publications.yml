@@ -1,5 +1,17 @@
 -
   type: journal
+  title: Placing the spotted T Tauri star LkCa 4 on an HR diagram
+  authors: Michael Gully-Santiago, Gregory J. Herczeg, Ian Czekala, Garrett Somers, Konstantin Grankin, Kevin Covey, J.F Donati, Silvia Alencar, Gaitee Hussain, Benjamin Shappee, Greg Mace, Jae-Joon Lee, T. Holoien, Jessy Jose, Chun-Fan Liu
+  journal: Astrophysical Journal
+  volume: Accepted
+  issue: 15 figures
+  pages: 26 pages
+  year: 2017
+  month: January
+  pdf: https://arxiv.org/pdf/1701.06703v1.pdf
+  url: https://arxiv.org/abs/1701.06703
+-
+  type: journal
   title: Optical characterization of gaps in directly bonded Si compound optics using infrared spectroscopy
   authors: Michael Gully-Santiago, Daniel T. Jaffe, Victor White
   journal: Applied Optics
@@ -17,6 +29,7 @@
   conference: Proc. SPIE
   volume: 9151
   year: 2014
+  pdf: http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG
   url: http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG
 -
   type: conference
@@ -24,6 +37,7 @@
   authors: Gully-Santiago, M.; Wang, W.; Deen, C.; and Jaffe, D.
   conference: Proc. SPIE
   year: 2012
+  pdf: http://adsabs.harvard.edu/abs/2012SPIE.8450E..2SG
   url: http://adsabs.harvard.edu/abs/2012SPIE.8450E..2SG
 -
   type: conference
@@ -31,6 +45,7 @@
   authors: Gully-Santiago, M. A., K. N. Allers, and D. T. Jaffe
   conference: Cool Stars 16
   year: 2011
+  pdf: http://adsabs.harvard.edu/abs/2011ASPC..448..633G
   url: http://adsabs.harvard.edu/abs/2011ASPC..448..633G
 -
   type: conference
@@ -38,6 +53,7 @@
   authors: Gully-Santiago, M.; Wang, W.; Deen, C.; Kelly, D.; Greene, T. P.; Bacon, J.; Jaffe, D. T.
   conference: Proc. SPIE
   year: 2010
+  pdf: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
   url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
 -
   type: conference
@@ -45,13 +61,15 @@
   authors: S. Kendrew, C. Deen, N. Radziwill, S. Crawford, J. Gilbert, Gully-Santiago, M., and P. Kubanek
   conference: Proc. SPIE
   year: 2014
-  url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
+  pdf: http://adsabs.harvard.edu/abs/2014SPIE.9152E..02K
+  url: http://adsabs.harvard.edu/abs/2014SPIE.9152E..02K
 -
   type: conference
   title: New metrology techniques improve the production of silicon diffractive optics
   authors: C. B. Brooks, Gully-Santiago, M., M. Grigas, and D. T. Jaffe
   conference: Proc. SPIE
   year: 2014
+  pdf: http://adsabs.harvard.edu/abs/2014SPIE.9151E..1GB
   url: http://adsabs.harvard.edu/abs/2014SPIE.9151E..1GB
 -
   type: conference
@@ -59,6 +77,7 @@
   authors: W. Wang, Gully-Santiago, M., C. Deen, D. J. Mar, and D. T. Jaffe
   conference: Proc. SPIE
   year: 2010
+  pdf: http://adsabs.harvard.edu/abs/2010SPIE.7739E..4LW
   url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..4LW
 
 
