@@ -1,19 +1,23 @@
 name: Michael Gully-Santiago, PhD
 
-label: astronomer, data scientist and technologist
+label: astronomer, technologist
 
 picture: /img/gully_face_square.png
 
 email: igully@gmail.com
 
-phone: 
+phone:
 
 mailing_address:
   <i class="fa fa-globe"></i>
   <br>
-  The Bay Area
+  NASA Ames Research Center
   <br>
-  San Francisco, CA
+  P. O. Box 1
+  <br>
+  M/S. 244-30
+  <br>
+  Moffett Field, CA. 94035-1000
 
 profiles:
 
@@ -28,7 +32,7 @@ profiles:
   -
     network: LinkedIn
     username: gullys
-    url: https://www.linkedin.com/in/gullys  
+    url: https://www.linkedin.com/in/gullys
   -
     network: Angel
     username: gully
@@ -54,4 +58,4 @@ profiles:
 intro:
   title: hello, most folks just call me gully
   body: >
-    I am a multidisciplinary scientist and technologist living in the San Francisco Bay Area.  Last year I was a postdoctoral researcher at the [Kavli Institute for Astronomy and Astrophysics](http://kiaa.pku.edu.cn/) in Beijing, China, where I developed a statistical inference framework to detect two-component photospheres in stellar spectra.  My work resulted in the measurement of an emergent spectrum arising from starspots, one of the [most robust measurements of its kind](https://arxiv.org/abs/1701.06703) for such a weak signal.  At the University of Texas at Austin, I led metrology with the Silicon Diffractive Optics Group.  I patterned exceptionally precise grooves on oversized silicon wafers the size of hockey pucks, adapting photolithography techniques developed for the VLSI semiconductor industry.  During a NASA GSRP fellowship at the [JPL Microdevices Lab](http://microdevices.jpl.nasa.gov/) I improved the precision of these devices [even](http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG) [further](http://adsabs.harvard.edu/abs/2015ApOpt..5410177G).  In the last 4 years, I have pivoted to interests in modern software technology, and how methods adapt to and leverage the increasingly data-rich environment.  I've also played tenor sax in a [renegade street band](http://www.minormishap.com).
+    I am a scientist and technologist living in the San Francisco Bay Area.  I work on the [Kepler spacecraft](https://en.wikipedia.org/wiki/Kepler_(spacecraft)), the most successful [planet-finding](https://exoplanetarchive.ipac.caltech.edu/) telescope in history.  My focus has centered on the ongoing [K2 mission](https://keplerscience.arc.nasa.gov/), which continues to revolutionize our understanding of [starspots](https://en.wikipedia.org/wiki/Starspot), [supernovae](https://www.jpl.nasa.gov/news/news.php?feature=7086), [white dwarfs](http://www.k2wd.org/), [stellar jitter](https://rvxk2.com/), and more.  I continue to develop and apply modular extensions to the statistical spectral inference framework [Starfish](https://github.com/gully/Starfish).  I used to lead metrology with the UT Austin Silicon Diffractive Optics Group, where I photolithographically patterned precise grooves on oversized silicon wafers the size of hockey pucks.  During a NASA GSRP fellowship at the [JPL Microdevices Lab](http://microdevices.jpl.nasa.gov/) I improved the precision of these devices [even](http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG) [further](http://adsabs.harvard.edu/abs/2015ApOpt..5410177G).  Recently I've become excited about scaling massive astronomical data analysis challenges with [distributed systems](https://dask.pydata.org/en/latest/) and [GPU-enabled inference frameworks](http://pytorch.org/).

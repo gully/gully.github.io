@@ -4,9 +4,9 @@ title: about gully
 permalink: /about/
 ---
 
-*Michael Gully-Santiago is a postdoctoral researcher at the Kavli Institute for Astronomy and Astrophysics.  He received his PhD at the University of Texas at Austin in May 2015.  He lives in Beijing.*
+*Michael Gully-Santiago is a support scientist at [baeri.org](https://baeri.org/) and a scientist for the Kepler/K2 Guest Observer Office.  He received his PhD at the University of Texas at Austin in May 2015.  He lives in Oakland.*
 
-This blog offers an opportunity to share my ideas and vision with anyone.  Practically speaking, it is merely a place to put content that is too long for a tweet and to whimsical for a paper.  I write about astronomy and technology.
+This blog offers an opportunity to share my ideas and vision with anyone.  Practically speaking, it is merely a place to put content that is too long for a tweet and too whimsical for a paper.  I write about astronomy and technology.
 
 Here are ten solid blogs.
 
