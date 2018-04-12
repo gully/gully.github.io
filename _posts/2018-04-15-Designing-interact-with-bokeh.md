@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Interactive widget design with Bokeh
-date:       2018-04-09 18:00:00
+date:       2018-04-15 18:00:00
 summary:    I lay out the design and development of lightkurve.interact(), a bokeh-based Jupyter widget for immediate, seamless visualization of Kepler/K2 data.
 ---
 
@@ -20,4 +20,10 @@ Already this demo showed me that the prototype was not only *useable*, but also 
 
 <img src="https://user-images.githubusercontent.com/860227/38396349-5beedcec-38ec-11e8-93d9-736460c12e16.gif" alt="quicklook bokeh demo">
 
-I renamed the tool from `quick_look()` to `interact()`, upon the guidance of K2 Guest Observer Office Director Geert Barentsen.  
+I renamed the tool from `quick_look()` to `interact()`, upon the guidance of K2 Guest Observer Office Director Geert Barentsen, and added a second slider for controlling the screen stretch.  The screen stretch is really helpful for finding faint objects right at the background noise limit.  In this example I identify an asteroid going through the upper right corner of the postage stamp.  
+
+
+<img src="https://user-images.githubusercontent.com/860227/38585992-b96a1ab6-3cd0-11e8-9699-7c124ee69e33.gif" alt="Two slider demo">
+
+
+I hit a snag when placing the screen stetch onto a log scale.  The bokeh colormapper

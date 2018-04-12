@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Interactive widgets for understanding K2 lightcurves
-date:       2018-04-10 18:00:00
+date:       2018-04-17 18:00:00
 summary:    Distinguishing instrumental artifacts from bona fide astrophysical signals complicates the analysis of Kepler/K2 lightcurves, and any imperfectly acquired time series data for that matter.  In this blog post I narrate the design and implementation of a new interactive quick look tool for gauging whether the blip you see in your Kepler lightcurve could arise from something scientifically interesting or mere spacecraft noise.  The simple framework, code, and design choices can be adapted to a broad swath of modern astronomical datasets.
 ---
 
