@@ -1,6 +1,6 @@
 name: Michael Gully-Santiago, PhD
 
-label: astronomer, technologist
+label: scientist
 
 picture: /img/gully_face_square.png
 
@@ -11,13 +11,13 @@ phone:
 mailing_address:
   <i class="fa fa-globe"></i>
   <br>
-  NASA Ames Research Center
+  The University of Texas at Austin
   <br>
-  P. O. Box 1
+  Department of Astronomy
   <br>
-  M/S. 244-30
+  2515 Speedway, Stop C1400
   <br>
-  Moffett Field, CA. 94035-1000
+  Austin, Texas 78712-1205
 
 profiles:
 
@@ -34,17 +34,9 @@ profiles:
     username: gullys
     url: https://www.linkedin.com/in/gullys
   -
-    network: Angel
-    username: gully
-    url: https://angel.co/michael-gully-santiago
-  -
     network: Instagram
     username: xgully
     url: https://www.instagram.com/xgully/
-  -
-    network: Strava
-    username: gullygully
-    url: https://www.strava.com/athletes/431569
   -
     network: CV
     username: CV
@@ -58,4 +50,4 @@ profiles:
 intro:
   title: hello, most folks just call me gully
   body: >
-    I am a scientist and technologist living in the San Francisco Bay Area.  I work on the [Kepler spacecraft](https://en.wikipedia.org/wiki/Kepler_(spacecraft)), the most successful [planet-finding](https://exoplanetarchive.ipac.caltech.edu/) telescope in history.  My focus has centered on the ongoing [K2 mission](https://keplerscience.arc.nasa.gov/), which continues to revolutionize our understanding of [starspots](https://en.wikipedia.org/wiki/Starspot), [supernovae](https://www.jpl.nasa.gov/news/news.php?feature=7086), [white dwarfs](http://www.k2wd.org/), [stellar jitter](https://rvxk2.com/), and more.  I continue to develop and apply modular extensions to the statistical spectral inference framework [Starfish](https://github.com/gully/Starfish).  I used to lead metrology with the UT Austin Silicon Diffractive Optics Group, where I photolithographically patterned precise grooves on oversized silicon wafers the size of hockey pucks.  During a NASA GSRP fellowship at the [JPL Microdevices Lab](http://microdevices.jpl.nasa.gov/) I improved the precision of these devices [even](http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG) [further](http://adsabs.harvard.edu/abs/2015ApOpt..5410177G).  Recently I've become excited about scaling massive astronomical data analysis challenges with [distributed systems](https://dask.pydata.org/en/latest/) and [GPU-enabled inference frameworks](http://pytorch.org/).
+    I am a scientist and technologist living in Austin, Texas.  I characterize stars and exoplanets using high resolution spectroscopy and probabilistic inference.  I recently joined the Exoplanet Atmospheres research group with UT Austin Professor [Caroline Morley](https://www.carolinemorley.com/).  We want to measure the atmospheres of exoplanets, with a long view of finding out which exoplanets are habitable.  I specialize in [quantifying uncertainty](https://speakerdeck.com/gully/know-thy-planet-know-thy-starspots) in the atmospheric measurement process.  Previously I worked for the [K2 mission](https://keplerscience.arc.nasa.gov/), which continues to revolutionize our understanding of exoplanets and [stellar activity](https://en.wikipedia.org/wiki/Starspot) among other topics.  I contribute to the scientific Python ecosystem including the [lightkurve](https://docs.lightkurve.org/) toolkit for time series data anlysis and the spectral inference framework [Starfish](https://github.com/gully/Starfish).  For my PhD I led metrology with the UT Austin Silicon Diffractive Optics Group, where I lithographically patterned immersion gratings.  During a NASA GSRP fellowship at the [JPL Microdevices Lab](http://microdevices.jpl.nasa.gov/) I improved the precision of these devices [even](http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG) [further](http://adsabs.harvard.edu/abs/2015ApOpt..5410177G).  Recently I've become excited about [GPUs](https://speakerdeck.com/gully/gpus-for-astronomy-data), [autodiff](https://github.com/google/jax), and other modern numerical innovations that stand to catalyze astronomical discovery.  
