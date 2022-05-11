@@ -36,7 +36,7 @@ profiles:
     url: https://github.com/gully/CV/blob/master/cv.pdf
   - network: Résumé
     username: gully
-    url: https://github.com/gully/CV/raw/master/resume_2019/resume.pdf
+    url: https://github.com/gully/CV/blob/master/resume_2019/resume.pdf
 
 intro:
   title: hello, most folks just call me gully
