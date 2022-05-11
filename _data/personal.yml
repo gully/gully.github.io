@@ -8,8 +8,7 @@ email: igully@utexas.edu
 
 phone:
 
-mailing_address:
-  <i class="fa fa-globe"></i>
+mailing_address: <i class="fa fa-globe"></i>
   <br>
   The University of Texas at Austin
   <br>
@@ -20,32 +19,24 @@ mailing_address:
   Austin, Texas 78712-1205
 
 profiles:
-
-  -
-    network: GitHub
+  - network: GitHub
     username: gully
     url: https://www.github.com/gully/
-  -
-    network: Twitter
+  - network: Twitter
     username: gully_
     url: https://twitter.com/gully_/
-  -
-    network: LinkedIn
+  - network: LinkedIn
     username: gullys
     url: https://www.linkedin.com/in/gullys
-  -
-    network: Instagram
+  - network: Instagram
     username: xgully
     url: https://www.instagram.com/xgully/
-  -
-    network: CV
+  - network: CV
     username: CV
     url: https://github.com/gully/CV/blob/master/cv.pdf
-  -
-    network: Résumé
+  - network: Résumé
     username: gully
-    url: https://github.com/gully/CV/raw/master/resume_alt/resume.pdf
-
+    url: https://github.com/gully/CV/raw/master/resume_2019/resume.pdf
 
 intro:
   title: hello, most folks just call me gully
