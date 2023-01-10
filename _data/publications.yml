@@ -1,5 +1,26 @@
--
-  type: journal
+- type: journal
+  title: An Interpretable Machine-learning Framework for Modeling High-resolution Spectroscopic Data
+  authors: Michael Gully-Santiago, Caroline Morley
+  journal: Astrophysical Journal
+  volume: 941
+  issue: 2
+  pages: 20 pages
+  year: 2022
+  month: December
+  pdf: https://arxiv.org/pdf/2210.01827.pdf
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...941..200G/abstract
+- type: journal
+  title: Astronomical échelle spectroscopy data analysis with muler
+  authors: Michael Gully-Santiago, Jessica Luna, Caroline Morley, Kyle Kaplan, Aishwarya Ganesh, Erica Sawczynec, Joel Burke, Daniel Krolikowski
+  journal: The Journal of Open Source Software
+  volume: 7
+  issue: 73
+  pages: 4 pages
+  year: 2022
+  month: May
+  pdf: https://www.theoj.org/joss-papers/joss.04302/10.21105.joss.04302.pdf
+  url: https://ui.adsabs.harvard.edu/abs/2022JOSS....7.4302G/abstract
+- type: journal
   title: Placing the spotted T Tauri star LkCa 4 on an HR diagram
   authors: Michael Gully-Santiago, Gregory J. Herczeg, Ian Czekala, Garrett Somers, Konstantin Grankin, Kevin Covey, J.F Donati, Silvia Alencar, Gaitee Hussain, Benjamin Shappee, Greg Mace, Jae-Joon Lee, T. Holoien, Jessy Jose, Chun-Fan Liu
   journal: Astrophysical Journal
@@ -10,8 +31,7 @@
   month: February
   pdf: https://arxiv.org/pdf/1701.06703v1.pdf
   url: http://adsabs.harvard.edu/abs/2017ApJ...836..200G
--
-  type: journal
+- type: journal
   title: Optical characterization of gaps in directly bonded Si compound optics using infrared spectroscopy
   authors: Michael Gully-Santiago, Daniel T. Jaffe, Victor White
   journal: Applied Optics
@@ -22,8 +42,7 @@
   month: December
   pdf: http://arxiv.org/pdf/1511.01183v1.pdf
   url: http://adsabs.harvard.edu/abs/2015ApOpt..5410177G
--
-  type: conference
+- type: conference
   title: High performance Si immersion gratings patterned with electron beam lithography
   authors: Gully-Santiago, M.A; Jaffe, D.T.; Brooks, C.B.; Wilson, D.W.; and Muller, R.E.
   conference: Proc. SPIE
@@ -31,48 +50,42 @@
   year: 2014
   pdf: http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG
   url: http://adsabs.harvard.edu/abs/2014SPIE.9151E..5KG
--
-  type: conference
+- type: conference
   title: Near-infrared metrology of high-performance silicon immersion gratings
   authors: Gully-Santiago, M.; Wang, W.; Deen, C.; and Jaffe, D.
   conference: Proc. SPIE
   year: 2012
   pdf: http://adsabs.harvard.edu/abs/2012SPIE.8450E..2SG
   url: http://adsabs.harvard.edu/abs/2012SPIE.8450E..2SG
--
-  type: conference
+- type: conference
   title: Confirmation and Characterization of Young Disk-Bearing Brown Dwarfs and sub-Brown Dwarfs
   authors: Gully-Santiago, M. A., K. N. Allers, and D. T. Jaffe
   conference: Cool Stars 16
   year: 2011
   pdf: http://adsabs.harvard.edu/abs/2011ASPC..448..633G
   url: http://adsabs.harvard.edu/abs/2011ASPC..448..633G
--
-  type: conference
+- type: conference
   title: High-performance silicon grisms for 1.2-8.0 micron- detailed results from the JWST-NIRCam devices
   authors: Gully-Santiago, M.; Wang, W.; Deen, C.; Kelly, D.; Greene, T. P.; Bacon, J.; Jaffe, D. T.
   conference: Proc. SPIE
   year: 2010
   pdf: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
   url: http://adsabs.harvard.edu/abs/2010SPIE.7739E..3SG
--
-  type: conference
+- type: conference
   title: The First SPIE software Hack Day
   authors: S. Kendrew, C. Deen, N. Radziwill, S. Crawford, J. Gilbert, Gully-Santiago, M., and P. Kubanek
   conference: Proc. SPIE
   year: 2014
   pdf: http://adsabs.harvard.edu/abs/2014SPIE.9152E..02K
   url: http://adsabs.harvard.edu/abs/2014SPIE.9152E..02K
--
-  type: conference
+- type: conference
   title: New metrology techniques improve the production of silicon diffractive optics
   authors: C. B. Brooks, Gully-Santiago, M., M. Grigas, and D. T. Jaffe
   conference: Proc. SPIE
   year: 2014
   pdf: http://adsabs.harvard.edu/abs/2014SPIE.9151E..1GB
   url: http://adsabs.harvard.edu/abs/2014SPIE.9151E..1GB
--
-  type: conference
+- type: conference
   title: Manufacturing of silicon immersion gratings for infrared spectrometers
   authors: W. Wang, Gully-Santiago, M., C. Deen, D. J. Mar, and D. T. Jaffe
   conference: Proc. SPIE
