@@ -1,30 +1,21 @@
--
-  name: Quantifying starspots and their implications for stellar ages
+- name: Interpretable Machine Learning for Echelle Spectroscopy with blase
+  description: >
+    Recent innovations in machine learning (ML) have shown how powerful the technology can be in our everyday lives.  Adapting ML to science has immense promise, but usually suffers from uninterpretability: Neural Architectures yield powerful predictions but cannot be easily interrogated for why they made such a prediction.  Our open source blase framework incorportates the powerful autodiff and GPU support from PyTorch on an interpretable physics-based substrate to yield the best of both worlds: the speed, scalability, and flexibility of ML with the heritage of hundreds of years of physical chemistry.
+  image: img/blase_logo.png
+  url: https://blase.readthedocs.io/en/latest/
+- name: Quantifying starspots and their implications for stellar ages
   description: >
     Starspots have occupied a major avenue of my recent research focus, leading in part to my work at Kepler/K2.  Kepler researchers take for granted the mere existence of starspots as the dominant method of assigning rotation periods to stars.  My major breakthrough on starspots came when I realized that starspots possess both the familiar "AC" signal, but also a less familiar "DC" signal, a part of starspot geometry that is always visible from the perspective of the observer.
   image: img/KnowThyStarspot_logo01.png
-  url: https://github.com/gully/Starfish
--
-  name: Spectral inference of IGRINS data
+  url: https://ui.adsabs.harvard.edu/abs/2017ApJ...836..200G/abstract
+- name: Probabilistic spectral inference with modular extensions to Starfish
   description: >
-    IGRINS is a high resolution (R~45,000) spectrograph covering the entire H- and K- near-IR spectral windows in a single exposure.  This immense spectral grasp presents both a new scientific competitive advantage, and an analysis challenge.  For the last three years I have developed computational approaches to overcome those challenges.  The technique emulates synthetic spectra from pre-computed stellar model grid to compare with IGRINS data.  The implementation of this approach, Starfish by Ian Czekala, is openly developed on GitHub, parallelized, and permissively licensed.  The code provides an extensible modular framework for deriving intrinsic and extrinsic stellar properties.  My work is centered around extending the code to model starspots, protostars, brown dwarfs, and sub-giants.
+    Echelle spectrographs like IGRINS possess an immense spectral grasp, presenting both a scientific competitive advantage, and an analysis challenge: "How to we leverage all of that data?  How do you compare it to imperfect models?"  For the last 8 years I have developed computational approaches to overcome those challenges.  The Starfish technique emulates synthetic spectra from pre-computed stellar model grids to compare with IGRINS data in a probabilistic way.  My work has centered around extending the code to model starspots, protostars, brown dwarfs, and subgiants.
   image: img/pgm_alt.png
   url: https://github.com/gully/Starfish
--
-  name: Discovery and characterization of young brown dwarfs
+- name: Silicon Immersion gratings
   description: >
-    The dearth of brown dwarfs is a manifestation of the stellar Initial Mass Function (IMF).  Their rarity and the observational challenges of detecting them have conspired to yield small samples of brown dwarfs.  Despite these limitations, brown dwarfs offer a unique astrophysical laboratory, to which we can ask the question "how do circumstellar disks change as a function of central object mass".  The agregate properties of young brown dwarfs serve as a bellwether for how astrophysical processes govern star formation.  We are learning about circumstellar disk dispersal timescales as a function of central object mass. These ideas ultimately inform our understanding of planetary habitability, and the diversity of stellar and planetary systems.
-  image: /img/L-dwarf-nasa-hurt.png
-  url: https://github.com/browndwarf
--
-  name: Silicon Immersion gratings
-  description: >
-    The Jaffe Silicon Diffractive Optics Group has been making diffraction gratings out of monocrystalline silicon for over 3 decades.  Silicon is an excellent optical material in the infrared because of its high (_n_ = 3.4) refractive index, which shrinks Si immersed wavelength, and reduces the overall size (and cost) of an infrared spectrograph design by a factor of about 3 to 10.  Weisong Wang and I custom-made the Si immersion grating for IGRINS.
+    The Jaffe Silicon Diffractive Optics Group has been making diffraction gratings out of monocrystalline silicon for over 4 decades.  Silicon is an excellent optical material in the infrared because of its high (_n_ = 3.4) refractive index, which shrinks Si immersed wavelength, and reduces the overall size (and cost) of an infrared spectrograph design by a factor of about 3 to 10.  Weisong Wang and I custom-made the Si immersion grating for IGRINS.
   image: /img/Si_profile.png
   url: http://www.as.utexas.edu/astronomy/research/people/jaffe/micro_si_diff.html
 -
-  name: Podcasting
-  description: >
-    I have started recording audio interviews at the Kepler/K2 Guest Observer Office at NASA Ames.  I aspire to collect audio interviews with many more professional astronomers with a focus on frontiers in modern astrophysics.  I am an avid listener of podcasts.  You can follow me on the new Breaker podcast app to see which ones are my favorites.  As a graduate student at UT Austin I produced and co-hosted 30 original science podcast for the KVRX science radio show *They Blinded Me With Science*.
-  image: /img/TBMWS_logo.png
-  url: https://itunes.apple.com/us/podcast/they-blinded-me-with-science/id908731079?mt=2
